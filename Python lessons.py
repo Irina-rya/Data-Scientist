@@ -1,1 +1,2 @@
-print (" Мои уроки в Python")
+# Мои уроки в Python
+print("Мои уроки в Python")
